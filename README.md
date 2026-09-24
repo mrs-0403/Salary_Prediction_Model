@@ -1,4 +1,4 @@
-Salary Prediction using Machine Learning
+*Salary Prediction using Machine Learning*
 
 Project Overview
 
